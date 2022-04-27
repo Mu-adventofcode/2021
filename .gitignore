@@ -1,3 +1,8 @@
+# adventofcode testdata
+input.txt
+doctests.txt
+example.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
