@@ -14,15 +14,16 @@ dx = len(walls[0])
 walls = [[1] * dx] + walls + [[1] * dx]
 dy = len(walls)
 
+wall_points = set((y, x) for y in range(dy) for x in range(dx) if walls[y][x])
 connections = set()
+
 for y in range(1, dy - 1):
     for x in range(1, dx - 1):
-        if walls[y][x]:
+        if (y, x) in wall_points:
             continue
-        cross = set(((y, x), (y - 1, x), (y + 1, x), (y, x - 1), (y, x + 1)))
-        notwall = set((v, u) for (v, u) in cross if not walls[v][u])
-        llg = list(notwall)
-        for conn in zip(llg, llg[1:]):
+        neighb = set(((y, x), (y - 1, x), (y + 1, x), (y, x - 1), (y, x + 1)))
+        neighb -= wall_points
+        for conn in zip(list(neighb), list(neighb)[1:]):
             connections.add(conn)
 
 G = nx.Graph()
