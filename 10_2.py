@@ -20,8 +20,8 @@ def short_stack(line):
 
 
 def scores(lines):
-    def ch_score(pcs, ch):
-        return pcs * 5 + POINTS[ch]
+    def ch_score(cs, ch):
+        return cs * 5 + POINTS[ch]
 
     for line in lines:
         stack = short_stack(line)
