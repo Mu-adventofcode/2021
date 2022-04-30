@@ -2,7 +2,7 @@ with open("input.txt") as f:
     data = [[int(d) for d in row.strip()] for row in f]
 
 (max_x, max_y) = (len(data[0]) - 1, len(data) - 1)
-inf = float("inf")
+inf = float("Inf")
 
 risk_levels = [
     height + 1
