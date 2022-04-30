@@ -1,36 +1,36 @@
 from functools import reduce
 from statistics import median
 
+OPENERS = "([{<"
 OPPOSITE = {"(": ")", "[": "]", "{": "}", "<": ">"}
-POINT_VALUE = {")": 1, "]": 2, "}": 3, ">": 4}
+POINTS = {")": 1, "]": 2, "}": 3, ">": 4}
 CORRUPT = object()
 
 
-def build_stack(line):
+def short_stack(line):
     stack = []
     for ch in line:
-        if ch in OPPOSITE:
+        if ch in OPENERS:
             stack.append(ch)
         else:
-            if OPPOSITE[stack.pop()] != ch:
+            prev = stack.pop()
+            if OPPOSITE[prev] != ch:
                 return CORRUPT
     return stack
 
 
-def char_score(subtotal, missing_char):
-    return subtotal * 5 + POINT_VALUE[missing_char]
+def scores(lines):
+    def ch_score(pcs, ch):
+        return pcs * 5 + POINTS[ch]
 
-
-def completion_scores(lines):
     for line in lines:
-        stack = build_stack(line)
+        stack = short_stack(line)
         if stack != CORRUPT:
             completion = (OPPOSITE[ch] for ch in stack[::-1])
-            yield reduce(char_score, completion, 0)
+            yield reduce(ch_score, completion, 0)
 
 
 with open("input.txt") as f:
     lines = [line.strip() for line in f]
-scores = list(completion_scores(lines))
-middle = median(scores)
+middle = median(scores(lines))
 print(middle)
