@@ -1,7 +1,13 @@
 """
-This solution makes use of networkx's ability to split up graphs into connected
-components. The script scans all matrix points. It locally connects points that
-are lower than 9. The distinct networkx components will correspond to basins.
+This solution for the 2nd part of day 9 makes use of networkx's ability to
+split up graphs into its connected components.
+
+First, the concept of 'wall points' is introduced: wall points are points of
+height == 9, and extra wall points surrounding the data matrix are added. This
+script scans the matrix and locally connects non wall points.
+
+Connections will be edges for a networkx graph.  Eventually the individual
+networkx connected components will correspond to the puzzle's basins.
 """
 import networkx as nx
 
