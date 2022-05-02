@@ -24,3 +24,4 @@ can easily comment on them if you have a github account. Please do:
 [day 10 part 1](https://gist.github.com/f306bcd9eb9b4937139ee5017a38a5ed)</br>
 [day 10 part 2](https://gist.github.com/78d91c766289d56aaec5893a8c04b2ae)</br>
 [day 11 part 1](https://gist.github.com/7d149a1cdb94741474902d4cc9e26023)</br>
+[day 11 part 2](https://gist.github.com/6b5e4354a78284bbce104d666c9c8e23)</br>
