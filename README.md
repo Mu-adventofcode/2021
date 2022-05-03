@@ -3,8 +3,8 @@ These are my python solutions to [Advent of Code
 2021](https://adventofcode.com/2021/). I publish them in github gists so you
 can easily comment on them if you have a github account. Please do:
 
-|day|part 1|part 2|alternative|
-|:----:|:---------------:|:---------------:|:---------------:|
+|day|part 1|part 2|alternative versions|
+|:----:|:---------------:|:---------------:|:---------------|
 |01|[day 01 part 1](https://gist.github.com/c5ccf7426b162e4701e981edaa86ee03)|[day 01 part 2](https://gist.github.com/eb764cfeb347ffcce30318c1b0208539)||
 |02|[day 02 part 1](https://gist.github.com/5612881243d61a94b71a2f45966b0cf1)|[day 02 part 2](https://gist.github.com/2515fabdf67f8be4f28cf90dbee41d76)||
 |03|[day 03 part 1](https://gist.github.com/d2a71e886e7e297b98bdde84ba57d8df)|[day 03 part 2](https://gist.github.com/d4172bd208f9527f61b74004b2ec1578)||
