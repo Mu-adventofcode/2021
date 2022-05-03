@@ -16,3 +16,4 @@ can easily comment on them if you have a github account. Please do:
 |08|[day 09 part 1](https://gist.github.com/eec5fe5dc9a64e7da8502b1107528f49)|[day 09 part 2](https://gist.github.com/c8cec4d9eeac43f37cc640d69e77a2b0)||
 |10|[day 10 part 1](https://gist.github.com/f306bcd9eb9b4937139ee5017a38a5ed)|[day 10 part 2](https://gist.github.com/78d91c766289d56aaec5893a8c04b2ae)||
 |11|[day 11 part 1](https://gist.github.com/7d149a1cdb94741474902d4cc9e26023)|[day 11 part 2](https://gist.github.com/6b5e4354a78284bbce104d666c9c8e23)|[day 11 dict version](https://gist.github.com/e7796f0048dd9232cc30eec4cc8522ee)|
+|12|[day 12 part 1](https://gist.github.com/1dc02ce7bc0135021aa57d170c2e3991)|||
