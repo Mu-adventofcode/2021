@@ -13,7 +13,8 @@ can easily comment on them if you have a github account. Please do:
 |06|[day 06 part 1](https://gist.github.com/e4c710c65ff2b26cdbe6b4c4c7b91a13)|[day 06 part 2](https://gist.github.com/176160e71d01b8887d7b7908a95f151c)||
 |07|[day 07 part 1](https://gist.github.com/f7e15448f1252e6ce5eb8252a8998f7f)|[day 07 part 2](https://gist.github.com/58522e1191a4a74a68f641f47285aa1f)||
 |08|[day 08 part 1](https://gist.github.com/c07a7d4f55e3d2510eafa8b025c403f7)|[day 08 part 2](https://gist.github.com/9ac08dbe2f03a033cfcce2ce85045c3c)||
-|08|[day 09 part 1](https://gist.github.com/eec5fe5dc9a64e7da8502b1107528f49)|[day 09 part 2](https://gist.github.com/c8cec4d9eeac43f37cc640d69e77a2b0)||
+|09|[day 09 part 1](https://gist.github.com/eec5fe5dc9a64e7da8502b1107528f49)|[day 09 part 2](https://gist.github.com/c8cec4d9eeac43f37cc640d69e77a2b0)||
 |10|[day 10 part 1](https://gist.github.com/f306bcd9eb9b4937139ee5017a38a5ed)|[day 10 part 2](https://gist.github.com/78d91c766289d56aaec5893a8c04b2ae)||
 |11|[day 11 part 1](https://gist.github.com/7d149a1cdb94741474902d4cc9e26023)|[day 11 part 2](https://gist.github.com/6b5e4354a78284bbce104d666c9c8e23)|[day 11 dict version](https://gist.github.com/e7796f0048dd9232cc30eec4cc8522ee)|
 |12|[day 12 part 1](https://gist.github.com/1dc02ce7bc0135021aa57d170c2e3991)||[day 12 part 1 iterator version](https://gist.github.com/049c172b0720d34d030e4b4ed48dc724)|
+|13|[day 13 part 1 and part 2](https://gist.github.com/7a06ebbf52bd864bd759d36e1721eb50)||
