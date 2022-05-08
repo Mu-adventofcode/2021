@@ -18,3 +18,4 @@ can easily comment on them if you have a github account. Please do:
 |11|[day 11 part 1](https://gist.github.com/7d149a1cdb94741474902d4cc9e26023)|[day 11 part 2](https://gist.github.com/6b5e4354a78284bbce104d666c9c8e23)|[day 11 dict version](https://gist.github.com/e7796f0048dd9232cc30eec4cc8522ee)|
 |12|[day 12 part 1](https://gist.github.com/1dc02ce7bc0135021aa57d170c2e3991)|[day 12 part 2](https://gist.github.com/373d42ff22236f9dcbc3dacbd8515d38)|[day 12 part 1 iterator version](https://gist.github.com/049c172b0720d34d030e4b4ed48dc724)|
 |13|[day 13 part 1](https://gist.github.com/7a06ebbf52bd864bd759d36e1721eb50)|[day 13 part 2](https://gist.github.com/7a06ebbf52bd864bd759d36e1721eb50)||
+|13|[day 14 part 1](https://gist.github.com/88ebda9ee235e214919bd972ae3a9282)|[day 14 part 2](https://gist.github.com/238ae4e3b8f24650fae7e2338e189e18)||
