@@ -20,4 +20,4 @@ can easily comment on them if you have a github account. Please do:
 |13|[day 13 part 1](https://gist.github.com/7a06ebbf52bd864bd759d36e1721eb50)|[day 13 part 2](https://gist.github.com/7a06ebbf52bd864bd759d36e1721eb50)||
 |14|[day 14 part 1](https://gist.github.com/88ebda9ee235e214919bd972ae3a9282)|[day 14 part 2](https://gist.github.com/238ae4e3b8f24650fae7e2338e189e18)|[@fogleman](https://github.com/fogleman/AdventOfCode2021/blob/main/14.py)|
 |15|[day 15 part 1](https://gist.github.com/5714aa628ff0f1f5321c4b3342884599)|[day 15 part 2](https://gist.github.com/50aa4c0b746c17c6ee2319f234550967)||
-|16|[day 16 part 1](https://gist.github.com/c66306388646b3dda649cf4aaa2b0ef1)<br/> | |[day 16 part 1 short version](https://gist.github.com/a90b4f883f98ed45350dc37fb62464f1)<br/>[@benediktwerner's version](https://github.com/benediktwerner/AdventOfCode/blob/master/2021/day16/sol.py)|
+|16|[day 16 part 1](https://gist.github.com/c66306388646b3dda649cf4aaa2b0ef1)| |[day 16 part 1 short version](https://gist.github.com/a90b4f883f98ed45350dc37fb62464f1), [@benediktwerner's version](https://github.com/benediktwerner/AdventOfCode/blob/master/2021/day16/sol.py)|
