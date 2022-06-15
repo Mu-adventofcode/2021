@@ -23,5 +23,5 @@ can easily comment on them if you have a github account. Please do:
 |16|[day 16 part 1](https://gist.github.com/c66306388646b3dda649cf4aaa2b0ef1)|[day 16 part 2](https://gist.github.com/f2f6323b4e74b79a29936936dedcc5b3)|[day 16 part 1 short version](https://gist.github.com/a90b4f883f98ed45350dc37fb62464f1)<br/>[@benediktwerner's version](https://github.com/benediktwerner/AdventOfCode/blob/master/2021/day16/sol.py)<br/>[day 16 part 1 iterator version](https://gist.github.com/cc8bedf9ca80f16d0c7e19edcd462aef)|
 |17|[day 17 part 1](https://gist.github.com/d2b7a8b55ece3224ae6dc25716441bce)|[day 17 part 2](https://gist.github.com/5aced5447609aa99f0cfc17e9aac6b16)|[day 17 part 1 simpler version](https://gist.github.com/72bca9f2194e8b3df720d754df915eb2)|
 |18|[day 18 part 1](https://gist.github.com/62d9d94c78b397ec9d9c7d5e3cce9aa7)|[day 18 part 2](https://gist.github.com/2b04e605097809a3c5fee8257454c4d1)||
-|19|[day 19](https://gist.github.com/4380e42e514a43e856de94e403458e58)||needs [operations.py](https://gist.github.com/4a3147b3597e80761b84bc6f8bd25169)|
+|19|[day 19](https://gist.github.com/4380e42e514a43e856de94e403458e58)||needs [orientations.py](https://gist.github.com/4a3147b3597e80761b84bc6f8bd25169)|
 
