@@ -26,4 +26,5 @@ can easily comment on them if you have a github account. Please do:
 |19|[day 19](https://gist.github.com/4380e42e514a43e856de94e403458e58)|||
 |20|[day 20](https://gist.github.com/f421b4ab9b6dd5f45623b6cf82ecb051)|||
 |21|[day 21 part 1](https://gist.github.com/7fa40fefa80584fc7e6b75d46123e7cb)|[day 21 part 2](https://gist.github.com/0cfa6fe66302641a6d4b1bbb0553a6c9)||
+|22|[day 22 part 1](https://gist.github.com/aeddea772008a07cb70fc6f515c7dae2)|||
 
